@@ -64,9 +64,10 @@ svg {
   stroke: $light-gray;
   stroke-dasharray: 6,2;
   stroke-width: 2px;
+  // fill: $light-gray;
   fill-opacity: 0;
 }
 
 .quote {
-  fill: $light-gray;
+  fill: $dark-green;
 }
