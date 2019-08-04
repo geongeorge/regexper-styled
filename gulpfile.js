@@ -9,7 +9,7 @@ const gulp = require('gulp-help')(require('gulp')),
       rename = require('gulp-rename'),
       config = require('./config'),
       gutil = require('gulp-util'),
-      webpack = require('webpack')
+      webpack = require('webpack'),
       webpackConfig = require('./webpack.config'),
       fs = require('fs');
 
